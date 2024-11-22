@@ -7,4 +7,5 @@ Follow the steps to execute the server side:
 4. Save and exit the editor.
 5. Open a terminal and navigate to the directory where you saved server.py.
 6. Start the server with the following command:
- -> python3 rpc_server.py
+ -> python3 server.py
+7. allow the code to run, proceed to execute the client side to verify the output. 
